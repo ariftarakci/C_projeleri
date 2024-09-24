@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1726085951 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\kiyaslama\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sayi_islemleri.h"
+
+1726085907 c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\kiyaslama\sayi_islemleri.h
+
+1727191075 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\kiyaslama\sayi_islemleri.c
+	<stdio.h>
+	"sayi_islemleri.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1726085951 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\dizideki_enbuyuk_sayi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sayi_islemleri.h"
+
+1726084128 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\dizideki_enbuyuk_sayi\bin\debug\switch_fonksiyonu.c
+
+1726085907 c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\dizideki_enbuyuk_sayi\sayi_islemleri.h
+
+1727191017 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\dizideki_enbuyuk_sayi\sayi_islemleri.c
+	<stdio.h>
+	"sayi_islemleri.h"
+

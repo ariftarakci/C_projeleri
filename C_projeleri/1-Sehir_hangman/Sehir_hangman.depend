@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1726488820 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\sehir_hangman\tahmin_etme.c
+
+1726488920 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\sehir_hangman\ekran.c
+	<stdio.h>
+	<windows.h>
+
+1726489739 source:c:\users\arif\onedrive - mf.karaelmas.edu.tr\masaüstü\c_dili\c_projeleri\sehir_hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
